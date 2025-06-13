@@ -39,9 +39,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Sample music files (replace with your actual music files)
     const musicFiles = {
-        'music1.mp3': 'Audio/11.ኢየሱስ ፍቅር Eyesus Fikir Hanna Tekle.mp3',
-        'music2.mp3': 'Audio/የፍቅርስጦታዬነህYEFKERSETOTAYNEHBEREKETTESFAYERingtone.mp3',
-        'music3.mp3': 'Audio/Fikerehen.m4a'
+        'music1.mp3': '11.ኢየሱስ ፍቅር Eyesus Fikir Hanna Tekle.mp3',
+        'music2.mp3': 'የፍቅርስጦታዬነህYEFKERSETOTAYNEHBEREKETTESFAYERingtone.mp3',
+        'music3.mp3': 'Fikerehen.m4a'
     };
 
     // Play button click handler
